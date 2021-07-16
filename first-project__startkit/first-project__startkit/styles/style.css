@@ -15,8 +15,10 @@
 @import url(./block/two-columns/__main-text/two-columns__main-text.css);
 @import url(./block/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(./block/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(block/section/section-title.css);
-@import url(block/section/section-subtitle.css);
+@import url(block/section/section-title/section-title.css);
+@import url(block/section/section-subtitle/section-subtitle.css);
+@import url(block/section/section-subtitle/_theme/_dark.css);
+@import url(block/section/section-title/_theme/_dark.css);
 @import url(./block/cards/__title/cards__title.css);
 @import url(./block/cards/__description/card__description.css);
 @import url(./block/cards/__image/cards__image.css);
@@ -25,12 +27,18 @@
 @import url(./block/digits/__title/digits__title.css);
 @import url(./block/digits/__subtitle/digits__subtitle.css);
 @import url(./block/table/table.css);
+@import url(./block/table/_theme/_dark.css);
 @import url(./block/table/__cell/table__cell.css);
 @import url(./block/table/__heading/table__heading.css);
 @import url(./block/table/__text/table__text.css);
 @import url(./block/table/__cell/_theme/_dark.css);
 @import url(./block/table/__heading/_theme/_dark.css);
 @import url(./block/table/__text/_theme/_dark.css);
+@import url(./block/table/__text/_theme/_dark.css);
+@import url(./block/kaufman/kaufman.css);
+@import url(./block/resources/resources.css);
+@import url(./block/resources/__logo/resources__logo.css);
+@import url(./block/resources/__logo-zone/resources__logo-zone.css);
 
 a {
   color: #2f80ed;
@@ -39,13 +47,7 @@ a {
 
 
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 
 
