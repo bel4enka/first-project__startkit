@@ -15,6 +15,23 @@
 @import url(./block/two-columns/__main-text/two-columns__main-text.css);
 @import url(./block/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(./block/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(block/section/section-title.css);
+@import url(block/section/section-subtitle.css);
+@import url(./block/cards/__title/cards__title.css);
+@import url(./block/cards/__description/card__description.css);
+@import url(./block/cards/__image/cards__image.css);
+@import url(./block/cards/__item/cards__item.css);
+@import url(./block/digits/digits.css);
+@import url(./block/digits/__title/digits__title.css);
+@import url(./block/digits/__subtitle/digits__subtitle.css);
+@import url(./block/table/table.css);
+@import url(./block/table/__cell/table__cell.css);
+@import url(./block/table/__heading/table__heading.css);
+@import url(./block/table/__text/table__text.css);
+@import url(./block/table/__cell/_theme/_dark.css);
+@import url(./block/table/__heading/_theme/_dark.css);
+@import url(./block/table/__text/_theme/_dark.css);
+
 a {
   color: #2f80ed;
 }
