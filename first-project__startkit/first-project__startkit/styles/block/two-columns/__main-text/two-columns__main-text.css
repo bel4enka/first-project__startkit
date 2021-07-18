@@ -1,7 +1,6 @@
 .two-columns__main-text {
   width: 80%;
-  /* в брифе указано min-width, но при этом текст не будет соответствовать макету */
-  max-width: 784px;
+  min-width: 784px;
 
 
 }

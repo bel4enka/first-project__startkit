@@ -6,5 +6,6 @@
   top: 64px;
   right: 0;
   background: #2f80ed;
+  animation: rotate_square-pic 15s linear infinite;
 
 }

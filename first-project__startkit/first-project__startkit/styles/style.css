@@ -1,3 +1,4 @@
+@import url(./block/keyframes/keyframes.css);
 @import url(./block/main/main.css);
 @import url(./block/page/page.css);
 @import url(./block/logo/logo.css);
@@ -59,3 +60,7 @@
 @import url(./block/footer/__column-link/_social/footer__column-link_social_fb.css);
 @import url(./block/footer/__column-link/_social/footer__column-link_social_vk.css);
 @import url(./block/footer/__column-link/_social/footer__column-link_social_insta.css);
+@import url(./block/video/video.css);
+@import url(./block/video/__iframes/video__iframes.css);
+@import url(./block/video/__iframe/video__iframe.css);
+@import url(./block/oakley/oakley.css);
