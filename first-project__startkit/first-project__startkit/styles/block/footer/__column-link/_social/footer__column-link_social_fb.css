@@ -1,0 +1,8 @@
+.footer__column-link_social_fb::before {
+  display: inline-block;
+  content: '';
+  width: 16px;
+  height: 15px;
+  background:url( ../../../../../images/facebook_white.svg);
+  margin-right: 10px;
+}

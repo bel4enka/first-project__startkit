@@ -3,9 +3,9 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
-  margin-left: 64px;
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background: #f2f2f2;
 }

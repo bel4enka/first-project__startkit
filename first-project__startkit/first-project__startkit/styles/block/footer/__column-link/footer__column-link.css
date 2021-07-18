@@ -1,0 +1,11 @@
+.footer__column-link {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+.footer__column-link:last-child {
+  margin-bottom: 0;
+}
+.footer__column-link:hover {
+  text-decoration: underline;
+}
