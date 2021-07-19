@@ -1,8 +1,0 @@
-.footer__column-link_social_insta::before {
-  display: inline-block;
-  content: '';
-  width: 16px;
-  height: 14px;
-  background:url( ../../../../../images/instagram_white.svg);
-  margin-right: 10px;
-}
