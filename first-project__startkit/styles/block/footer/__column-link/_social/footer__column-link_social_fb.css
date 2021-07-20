@@ -3,6 +3,6 @@
   content: '';
   width: 16px;
   height: 15px;
-  background:url( ../../../../../images/facebook_white.svg);
+  background: url('../../../../images/facebook_white.svg');
   margin-right: 10px;
 }
